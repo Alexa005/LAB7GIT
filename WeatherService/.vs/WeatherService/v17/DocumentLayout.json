@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8ED71A6B-8054-4079-9FE8-B2DB012B4DDB}|WeatherService\\WeatherService.vcxproj|C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\JsonService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED71A6B-8054-4079-9FE8-B2DB012B4DDB}|WeatherService\\WeatherService.vcxproj|solutionrelative:WeatherService\\JsonService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED71A6B-8054-4079-9FE8-B2DB012B4DDB}|WeatherService\\WeatherService.vcxproj|C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\JsonService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED71A6B-8054-4079-9FE8-B2DB012B4DDB}|WeatherService\\WeatherService.vcxproj|solutionrelative:WeatherService\\JsonService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ED71A6B-8054-4079-9FE8-B2DB012B4DDB}|WeatherService\\WeatherService.vcxproj|C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED71A6B-8054-4079-9FE8-B2DB012B4DDB}|WeatherService\\WeatherService.vcxproj|solutionrelative:WeatherService\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -26,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +45,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "weather.json",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\weather.json",
+              "RelativeDocumentMoniker": "..\\weather.json",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\weather.json",
+              "RelativeToolTip": "..\\weather.json",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T06:26:40.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "JsonService.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\JsonService.cpp",
+              "RelativeDocumentMoniker": "WeatherService\\JsonService.cpp",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\JsonService.cpp",
+              "RelativeToolTip": "WeatherService\\JsonService.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T06:22:10.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonService.h",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\JsonService.h",
+              "RelativeDocumentMoniker": "WeatherService\\JsonService.h",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\JsonService.h",
+              "RelativeToolTip": "WeatherService\\JsonService.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T06:19:29.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Service.h",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\Service.h",
               "RelativeDocumentMoniker": "WeatherService\\Service.h",
@@ -47,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Weather.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\Weather.cpp",
               "RelativeDocumentMoniker": "WeatherService\\Weather.cpp",
@@ -55,12 +105,11 @@
               "RelativeToolTip": "WeatherService\\Weather.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-29T05:49:30.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T05:49:30.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Weather.h",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\Weather.h",
               "RelativeDocumentMoniker": "WeatherService\\Weather.h",
@@ -68,12 +117,11 @@
               "RelativeToolTip": "WeatherService\\Weather.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-29T05:45:25.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T05:45:25.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "WeatherService.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\WeatherService.cpp",
               "RelativeDocumentMoniker": "WeatherService\\WeatherService.cpp",
@@ -81,8 +129,7 @@
               "RelativeToolTip": "WeatherService\\WeatherService.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-29T05:13:14.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T05:13:14.439Z"
             }
           ]
         }
