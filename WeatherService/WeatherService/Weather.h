@@ -14,6 +14,7 @@ private:
 
 public:
 	Weather(std::string, double, double, double, std::string, double, int);
+	void print();
 
 };
 
