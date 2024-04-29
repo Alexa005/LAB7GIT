@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "WeatherService\\WeatherService.cpp",
               "ToolTip": "C:\\Users\\PC\\OneDrive - vyatsu\\\u0423\u0427\u0415\u0411\u0410\\1 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 7\\WeatherService\\WeatherService\\WeatherService.cpp",
               "RelativeToolTip": "WeatherService\\WeatherService.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-29T07:20:10.643Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "WeatherService\\XmlService.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-29T07:08:56.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T07:08:56.384Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "WeatherService\\XmlService.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-29T07:07:33.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T07:07:33.756Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "WeatherService\\Service.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-29T06:11:10.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T06:11:10.913Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "WeatherService\\Weather.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAswBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-29T05:49:30.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T05:49:30.449Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "WeatherService\\Weather.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-29T05:45:25.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T05:45:25.414Z"
             }
           ]
         }
